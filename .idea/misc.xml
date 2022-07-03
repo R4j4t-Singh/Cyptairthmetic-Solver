@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/drawable/border.xml" value="0.226" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/drawable/gradient_back.xml" value="0.226" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/drawable/header.xml" value="0.205" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.216" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/drawable/ic_division.xml" value="0.216" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/layout/activity_ans.xml" value="0.16799999999999998" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/layout/activity_main.xml" value="0.2118270079435128" />
+        <entry key="..\:/Cryptairthmetic/app/src/main/res/layout/fragment_additon.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
